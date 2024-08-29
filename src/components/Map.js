@@ -5,7 +5,8 @@ import { touristSpots } from '../data';
 const Map = ({ selectedSpot, onSelectSpot }) => {
   useEffect(() => {
     const script = document.createElement('script');
-    script.src = `//dapi.kakao.com/v2/maps/sdk.js?appkey=bdf86abb0427674d9d321fc6401555db&autoload=false`;
+    const apiKey = process.env.REACT_APP_KAKAO_MAP_API_KEY; // .env 파일에서 API 키를 가져옴
+    script.src = `//dapi.kakao.com/v2/maps/sdk.js?appkey=${apiKey}&autoload=false`;
     document.head.appendChild(script);
 
     script.onload = () => {
