@@ -18,6 +18,13 @@
 - **스타일링:** CSS, Material-UI
 - **배포:** (해당 프로젝트가 배포되었다면 배포된 URL 기재)
 
+## 웹 페이지 이미지
+메인 1
+![페이지 1](https://github.com/jyt6640/Andong-Tourist-Map/blob/master/resultimg/result1.png)
+메인 2
+![페이지 2](https://github.com/jyt6640/Andong-Tourist-Map/blob/master/resultimg/result2.png)
+메인 3
+![페이지 3](https://github.com/jyt6640/Andong-Tourist-Map/blob/master/resultimg/result3.png)
 ## 설치 및 실행 방법
 
 ### 1. 리포지토리 클론
