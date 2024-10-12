@@ -30,4 +30,10 @@
 ### 1. 리포지토리 클론
 ```bash
 git clone https://github.com/username/andong-tourist-map.git
+
 cd andong-tourist-map
+```
+### 2. 프로그램 실행
+Node.js 다운
+```bash
+npm start
