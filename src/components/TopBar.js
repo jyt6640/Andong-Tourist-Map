@@ -10,7 +10,7 @@ const TopBar = () => {
         </Typography>
         <Box sx={{ display: 'flex', alignItems: 'center' }}>
           <Typography variant="body1" sx={{ marginRight: 2 }}>
-            Andong 26°C 🌤️
+            Andong so Happy 🌤️
           </Typography>
         </Box>
       </Toolbar>
