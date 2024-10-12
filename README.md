@@ -34,6 +34,8 @@ git clone https://github.com/username/andong-tourist-map.git
 cd andong-tourist-map
 ```
 ### 2. 프로그램 실행
-Node.js 다운
+1. Node.js 다운 후 VSCODE로 폴더 실행
+
+2. 터미널 창에 아래 명령어 입력
 ```bash
 npm start
