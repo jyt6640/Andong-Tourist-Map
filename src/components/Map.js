@@ -47,7 +47,7 @@ const Map = ({ selectedSpot, onSelectSpot }) => {
         width: '100%',
         height: '100%',
         position: 'relative',
-        zIndex: 1,  // z-index를 낮게 설정하여 맵이 뒤에 있도록 설정
+        zIndex: 1,
       }}
     />
   );
